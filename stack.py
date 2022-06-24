@@ -1,4 +1,3 @@
-from sqlite3 import paramstyle
 import requests
 
 from datetime import date, timedelta
